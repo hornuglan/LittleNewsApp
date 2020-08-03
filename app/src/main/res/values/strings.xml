@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="no_posts">No posts found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Posts Settings</string>
+
+    <string name="list_item_title_placeholder">News Post Text Title</string>
+    <string name="list_item_section_placeholder">News</string>
+    <string name="list_item_date_placeholder">Feb 20, 2020</string>
+    <string name="list_item_author_placeholder">John Doe</string>
+
+    <!-- Order-By Preference -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <!-- Most recent posts -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">search</string>
+
+    <!-- News -->
+    <string name="settings_order_by_news_label">News</string>
+    <string name="settings_order_by_news_value" translatable="false">news</string>
+
+    <!-- Politics -->
+    <string name="settings_order_by_politics_label">Politics</string>
+    <string name="settings_order_by_politics_value" translatable="false">politics</string>
+    <string name="show_tags">show-tags</string>
+    <string name="news_author">contributor</string>
+
+    <!-- Technology -->
+    <string name="settings_order_by_technology_label">Technology</string>
+    <string name="settings_order_by_technology_value" translatable="false">technology</string>
+
+    <!-- Education -->
+    <string name="settings_order_by_education_label">Education</string>
+    <string name="settings_order_by_education_value" translatable="false">education</string>
+
+    <!-- Books -->
+    <string name="settings_order_by_books_label">Books</string>
+    <string name="settings_order_by_books_value" translatable="false">books</string>
+
+    <!-- Fashion -->
+    <string name="settings_order_by_fashion_label">Fashion</string>
+    <string name="settings_order_by_fashion_value" translatable="false">fashion</string>
+
+    <!-- Opinion -->
+    <string name="settings_order_by_opinion_label">Opinion</string>
+    <string name="settings_order_by_opinion_value" translatable="false">opinion</string>
+
+    <string name="network_scheme" translatable="false">https</string>
+    <string name="guardian_api_domain" translatable="false">content.guardianapis.com</string>
+    <string name="guardian_api_subdomain" translatable="false">technology</string>
+    <string name="guardian_api_key" translatable="false">api-key</string>
+    <string name="guardian_student_key" translatable="false">fc162726-0886-49a0-a1a1-f7e829b6e64e</string>
+</resources>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_most_recent_label</item>
+        <item>@string/settings_order_by_news_label</item>
+        <item>@string/settings_order_by_technology_label</item>
+        <item>@string/settings_order_by_education_label</item>
+        <item>@string/settings_order_by_opinion_label</item>
+        <item>@string/settings_order_by_books_label</item>
+        <item>@string/settings_order_by_fashion_label</item>
+
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_most_recent_value</item>
+        <item>@string/settings_order_by_news_value</item>
+        <item>@string/settings_order_by_technology_value</item>
+        <item>@string/settings_order_by_education_value</item>
+        <item>@string/settings_order_by_opinion_value</item>
+        <item>@string/settings_order_by_books_value</item>
+        <item>@string/settings_order_by_fashion_value</item>
+    </string-array>
+</resources>
